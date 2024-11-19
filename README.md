@@ -16,14 +16,19 @@ This project is a real-time **Attendance Management System** that uses **Facial 
 
 ## Installation and Setup
 
-\```bash
-# Clone this repository
-git clone https://github.com/yourusername/Attendance-Management-System-Facial-Recognition.git
-cd Attendance-Management-System-Facial-Recognition
+   1. Clone this repository
+        ```bash
+         git clone https://github.com/yourusername/Attendance-Management-System-Facial-Recognition.git
+         cd Attendance-Management-System-Facial-Recognition
 
-# Install the required dependencies
-pip install opencv-python face-recognition firebase-admin cvzone numpy
-\```
+   2. Install the required dependencies
+         ```bash
+         pip install opencv-python
+         pip install face-recognition
+         pip install firebase-admin
+         pip install cvzone
+         pip install numpy
+
 
 ---
 
@@ -112,6 +117,6 @@ This project is licensed under the MIT License.
 
 
 
-- **credentials:** serviceAccountKey.json
+- **credentials:** "serviceAccountKey.json"
 - **databaseURL:** "https://attendancemanagementcc-default-rtdb.firebaseio.com/",
 - **storageBucket:** "attendancemanagementcc.appspot.com"
