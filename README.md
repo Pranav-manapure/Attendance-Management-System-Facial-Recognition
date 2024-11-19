@@ -34,25 +34,26 @@ This project is a real-time **Attendance Management System** that uses **Facial 
 
 ## Project Structure
 
-
+```plaintext
 Attendance-Management-System-Facial-Recognition/
-├── Images/
-│   ├── 23MCA1041.jpg
-│   ├── VITCC52288.jpg
-│   └── ...
-├── Resources/
-│   ├── background.png
-│   ├── Modes/
-│   │   ├── mode1.png
-│   │   ├── mode2.png
-│   │   └── ...
-├── EncodeFile.p
-├── serviceAccountKey.json
-├── upload_images.py
-├── add_data_to_database.py
-├── main.py
-├── requirements.txt
-└── README.md
+├── Images/                # Directory to store all user images
+│   ├── 23MCA1041.jpg      # Example: Pranav's photo
+│   ├── VITCC52288.jpg     # Example: XYZ's photo
+│   └── ...                # Add more user images here
+├── Resources/             # Supporting resources for the UI
+│   ├── background.png     # Background for the system interface
+│   ├── Modes/             # Modes directory for dynamic UI states
+│   │   ├── mode1.png      # Mode 1 display
+│   │   ├── mode2.png      # Mode 2 display
+│   │   └── ...            # Additional modes
+├── EncodeFile.p           # Encoded file containing facial data
+├── serviceAccountKey.json # Firebase service account key
+├── upload_images.py       # Script to encode and upload images to Firebase
+├── add_data_to_database.py# Script to initialize and populate Firebase
+├── main.py                # Main application script for real-time attendance
+├── requirements.txt       # List of dependencies for the project
+└── README.md              # Project documentation
+```
 
 ---
 
