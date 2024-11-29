@@ -1,4 +1,4 @@
-# Attendance Management System Using Facial Recognition
+![image](https://github.com/user-attachments/assets/6e739315-5c3e-4e8b-8adb-a470902fccef)# Attendance Management System Using Facial Recognition
 
 ## Overview
 This project is a real-time **Attendance Management System** that uses **Facial Recognition** to identify individuals and log attendance efficiently. The system integrates with **Firebase** for real-time database management and storage functionalities.
@@ -76,19 +76,21 @@ Attendance-Management-System-Facial-Recognition/
 1. **Live Facial Recognition**
    - Screenshort 1
 
-   ![image](https://github.com/user-attachments/assets/f76ea20a-9fd0-46fe-839e-2b0abdc7c134)
+   ![image](https://github.com/user-attachments/assets/112da583-0084-4612-aadb-c8a5ed748222)
 
    - Screenshort 2
 
-   ![image](https://github.com/user-attachments/assets/cc46c1d5-7045-49b4-bbaa-54addcb32819)
+   ![image](https://github.com/user-attachments/assets/bf9239d9-0ef7-431c-8179-91941572bbd6)
 
 1. **Attendance Logging in Firebase**
-   - Images Stored in Firebase: 
-   ![image](https://github.com/user-attachments/assets/4641f4fb-e603-4935-b218-f0f66c56456f)
+   - Images Stored in Firebase:
+   
+   ![image](https://github.com/user-attachments/assets/3476eb3f-0d4f-4169-808f-2e1a821b6f9b)
 
    - Student’s details and records Stored in data base:
-   ![image](https://github.com/user-attachments/assets/56af696a-2684-4d94-ae89-8372a44bb1a1)
 
+   ![image](https://github.com/user-attachments/assets/eaa93f0e-0141-49f6-bf24-1e3166a3279a)
+   
 ---
 
 ## How It Works
