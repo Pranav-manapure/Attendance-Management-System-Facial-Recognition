@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/6e739315-5c3e-4e8b-8adb-a470902fccef)# Attendance Management System Using Facial Recognition
+# Attendance Management System Using Facial Recognition
 
 ## Overview
 This project is a real-time **Attendance Management System** that uses **Facial Recognition** to identify individuals and log attendance efficiently. The system integrates with **Firebase** for real-time database management and storage functionalities.
